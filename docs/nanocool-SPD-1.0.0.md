@@ -2,8 +2,7 @@
 # nanoMFG Software Planning Document
 <!-- Replace text below with long title of project:short-name -->
 ## The Coolest nanoHUB Tool: nanocool
-### Target Release: #.#.# : Month Day, 20##
-
+### Target Release: 1.0.0 : 12 01, 2020
 ## Development Team
 <!-- Complete table for all team members 
  roles: lead, developer, reviewer
@@ -14,7 +13,7 @@ Name | Role | github user | nanohub user | email | status
 Joe Shmo | lead | jshmo | jshmo | jshmo@nanocool.co | active
 Alice Land | developer | alice1 | alice2 | alice@wonderland | inactive
 
-**nanoMFG Github Team(s):** @coolteam
+**nanoMFG Github Team(s):** @nanocool-dev
 **nanoHUB Group(s):**
 
 ## 1. Introduction
